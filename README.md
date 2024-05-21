@@ -16,3 +16,13 @@ Index Layout:
     - Make it adjustment the height & width
 - Link recipes titles to another recipes pages
 - Add simple description about the recipes I choose.
+
+
+Recipes Layout:
+- The Heading Odin Recipes has the link to back the index
+- Include the recipe image
+    - Try to include two images.
+- Add description of recipe
+- Add Ingredients with Unordered lists
+- Add steps to cook with Ordered list
+- Add horizontal line with the simple footer.
