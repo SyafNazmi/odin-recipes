@@ -5,7 +5,7 @@ My first project how to develop recipes using HTML knowledge.
 Expectations:
 - There is three recipes should be listed
     - Each recipes need to link from index file
-    - My top picks to do: Sushi, Fried Chicken and Potato
+    - My top picks to do: Sushi, Fried Chicken and Jacket Potato
 
 Index Layout:
 - Simple description about three recipes
