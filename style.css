@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    font-family: Helvetica, sans-serif;
+
+}
+
+ul {
+  line-height: 2;
+}
+
+.sushi, .friedchicken, .jacketpotato {
+  width: 400px;
+  background: #C5AEB2;
+  margin: 16px auto;
+  padding: 8px;
+}
