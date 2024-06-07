@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.firstrecipes, .secrecipes, .thirdrecipes {
+    background: #ADDCCE;
+    border: 5px solid #ADD8E6;
+    padding: 23px;
+    margin: 60px;
+}
